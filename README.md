@@ -67,7 +67,7 @@ Epoch: 19/20,Micro Batches: 6:   5%|▌         | 1/20 [00:00<00:03,  4.84it/s, 
 Epoch: 20/20,Micro Batches: 6:   5%|▌         | 1/20 [00:00<00:03,  4.85it/s, lr=3e-5, train average loss=13, train loss=0.00367]
 
 # prdict 
-python predict.py
+    python predict.py
 
 >预测结果： "流畅度"
 >实际结果： "流畅度"
