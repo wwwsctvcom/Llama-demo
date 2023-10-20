@@ -2,7 +2,7 @@
 llama model training from scratch and predict, offer a simple training type and demo
 
 # train
-python train.py
+\t\tpython train.py
 
 训练过程和结果
 
